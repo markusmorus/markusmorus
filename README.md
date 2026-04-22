@@ -98,7 +98,7 @@
 ✉️ **m.morettoni@libero.it**  
 🌐 **marcomorettoni.it**  
 📞 **392 420 3789**  
-💼 LinkedIn: *[[aggiungi link]*](https://www.linkedin.com/in/marco-morettoni-44a2809a/)  
+💼 LinkedIn: *[[(https://www.linkedin.com/in/marco-morettoni-44a2809a/]*])  
 
 > *Rispondo velocemente, specialmente se hai bisogno di automatizzare qualcosa o migliorare il posizionamento di un sito.*
 
